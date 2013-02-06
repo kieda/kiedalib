@@ -1,0 +1,36 @@
+This package is used for the various testing of the data structures and other
+libraries for kiedalib. Includes a testing framework.
+
+Below is a list of tasks to handle in this package.
+
+--------------------------------------------------------------------------------
+Things to make:
+//    :: Linear Search
+    :: Binary Search
+
+    :: Selection sort
+    :: Pancake sort
+    :: Quick Sort
+
+    :: Queue
+    :: Linked List
+    :: Stack
+
+    :; Unbounded array
+    :: HashTable
+    :: Priority Queue
+    :: Backtracking search
+    :: AVL tree
+
+    :: Trie
+
+    :: Search in graph
+    :: Spanning tree
+    
+    :: Kruskal's Algorithm
+    :: Djikstra's Algo
+
+    :: Union find
+Things to test:
+
+all
