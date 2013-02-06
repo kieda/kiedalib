@@ -1,5 +1,7 @@
 /**
- * NOT by be. Shamelessly stolen from oracle...
+ * NOT by be. Shamelessly stolen from sun.oracle...
+ * 
+ * (in here so I can actually compile my 60150-Final into a jar file...)
  */
 package org.kieda.data_structures;
 
