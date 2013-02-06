@@ -1,4 +1,6 @@
-
+/**
+ * NOT by be. Shamelessly stolen from oracle...
+ */
 package org.kieda.data_structures;
 
 import java.util.ArrayList;
